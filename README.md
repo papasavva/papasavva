@@ -1,6 +1,8 @@
-### Hi, I'm a Software Engineer
+### Alexandros Papasavva — Senior Software Engineer
 
+Backend engineer building event-driven microservices in **Go** and **Node.js/TypeScript**,
+with Kafka, PostgreSQL and Kubernetes. Payments, wallets and real-time systems.
 
-- 😀  I like to work with microservices
-- 📖  I’m currently learning microservices architecture & Github Actions
-- 💻  My prefered environment is macOS, JetBrains & Github
+- 🌍 Cyprus (EU) · UTC+2/+3 · remote
+- 🛠 Go · TypeScript · Kafka · PostgreSQL · Redis · Docker · Kubernetes · AWS
+- 📫 papasavva.alexandros@gmail.com
